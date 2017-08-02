@@ -12,5 +12,8 @@
     "url": "git@github.com:a-x-/noyarn.git",
     "type": "git"
   },
-  "author": "alex <alex@rocketguys.com>"
+  "author": "alex <alex@rocketguys.com>",
+  "bin": {
+    "yarn": "./noyarn.sh"
+  }
 }
