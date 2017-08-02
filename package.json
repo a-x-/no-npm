@@ -15,5 +15,6 @@
   "author": "alex <alex@rocketguys.com>",
   "bin": {
     "yarn": "./noyarn.sh"
-  }
+  },
+  "version": "0.1.0"
 }
