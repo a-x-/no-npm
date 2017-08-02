@@ -1,0 +1,16 @@
+{
+  "name": "noyarn",
+  "description": "Prevent run yarn in package-lock.json based projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.20.0"
+  }
+  "repository": {
+    "url": "git@github.com:a-x-/noyarn.git",
+    "type": "git"
+  },
+  "author": ""latest" <alex@rocketguys.com>"
+}
