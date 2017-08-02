@@ -16,6 +16,11 @@
   "bin": {
     "yarn": "./noyarn.sh"
   },
-  "version": "0.2.0",
-  "tags": ["no", "yarn", "package-lock", "npm"]
+  "version": "0.2.1",
+  "tags": [
+    "no",
+    "yarn",
+    "package-lock",
+    "npm"
+  ]
 }
