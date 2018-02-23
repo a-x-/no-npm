@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 [[ -f ~/.zshrc ]] && profile_name=.zshrc
 [[ ! "$profile_name" ]] && [[ -f ~/.bashrc ]] && profile_name=.bashrc
