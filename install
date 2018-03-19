@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-[[ -f ~/.zshrc ]] && profile_name=.zshrc
-[[ ! "$profile_name" ]] && [[ -f ~/.bashrc ]] && profile_name=.bashrc
+[ -f ~/.zshrc ] && profile_name=.zshrc
+[ ! "$profile_name" ] && [[ -f ~/.bashrc ]] && profile_name=.bashrc
 
-[[ "$(echo $PATH | grep -o  'node_modules/.bin')" ]] && echo noinst || echo 'export PATH=$PATH:./node_modules/.bin' > ~/$profile_name
+[ "$(echo $PATH | grep -o  'node_modules/.bin')" ] && echo noinst || echo 'export PATH=$PATH:./node_modules/.bin' > ~/$profile_name
