@@ -10,7 +10,7 @@ fi
 echo
 echo Tip. Install node using tj/n node version manager:
 echo "curl -L https://git.io/n-install | bash"
-echo "Install yarn: npm i -g yarn"
+echo "Install yarn: cd ~ && npm i -g yarn && cd -"
 echo
 echo
 exit 1
