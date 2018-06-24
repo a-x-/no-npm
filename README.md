@@ -1,8 +1,8 @@
-# noyarn
+# no-npm
 
-Npm@5+ nice, isn't it?
+Npm@5+ is still ugly, isn't it?
 
-NoYarn prevents running the <kbd>yarn</kbd> in the `package-lock.json`-based projects.
+no-npm prevents running the <kbd>npm</kbd> in the `yarn.lock`-based projects.
 
 Just add it as dev dependency and magic will be done.
 
