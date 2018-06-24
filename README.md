@@ -12,8 +12,3 @@ yarn add -D no-npm
 
 ## Jesus, No! npm is the best again!
 Good news, we have something special for you: **[noyarn](https://github.com/a-x-/noyarn)** ✨
-
-----
-
-# Sponsored with ❤️ by <a href="https://rocketbank.ru">RocketBank</a> <img src="https://user-images.githubusercontent.com/6201068/41535008-57abc544-7309-11e8-9259-4b38bc1e7370.png" width="24"/>
-Russian Fintech startup
