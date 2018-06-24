@@ -16,7 +16,7 @@
   },
   "author": "alex <alex@rocketguys.com>",
   "bin": {
-    "yarn": "./no-npm.sh"
+    "npm": "./no-npm.sh"
   },
   "version": "0.3.1",
   "keywords": [
