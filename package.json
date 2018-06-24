@@ -6,8 +6,7 @@
     "postinstall": "./install",
     "postversion": "git push && git push --tags && npm publish"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "url": "git@github.com:a-x-/no-npm.git",
     "type": "git"
@@ -16,7 +15,7 @@
   "bin": {
     "npm": "./no-npm.sh"
   },
-  "version": "0.3.1",
+  "version": "0.3.2",
   "keywords": [
     "no",
     "yarn",
