@@ -18,7 +18,7 @@
   "bin": {
     "yarn": "./no-npm.sh"
   },
-  "version": "0.2.8",
+  "version": "0.3.0",
   "keywords": [
     "no",
     "yarn",
