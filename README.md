@@ -11,7 +11,7 @@ yarn add -D no-npm
 ```
 
 ## Jesus, No! npm is the best again!
-ok, we're have something for you: **[noyarn](https://github.com/a-x-/noyarn)** ✨
+Good news, we have something special for you: **[noyarn](https://github.com/a-x-/noyarn)** ✨
 
 ----
 
