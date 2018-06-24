@@ -4,7 +4,14 @@ Npm@5+ is still ugly, isn't it?
 
 no-npm prevents running the <kbd>npm</kbd> in the `yarn.lock`-based projects.
 
-Just add it as dev dependency and magic will be done.
+Just add it as dev dependency and magic will be done
+
+```sh
+yarn add -D no-npm
+```
+
+## Jesus, No! npm is the best again!
+ok, we're have something for you: **[noyarn](https://github.com/a-x-/noyarn)** ✨
 
 ----
 
