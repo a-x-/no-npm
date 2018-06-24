@@ -1,5 +1,5 @@
 {
-  "name": "no-n-p-m",
+  "name": "mpn-on",
   "description": "No Yarn: Prevent run yarn in package-lock.json based projects",
   "main": "src/index.js",
   "scripts": {
