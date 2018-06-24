@@ -7,7 +7,7 @@ no-npm prevents running the <kbd>npm</kbd> in the `yarn.lock`-based projects.
 Just add it as dev dependency and magic will be done
 
 ```sh
-yarn add -D no-npm
+yarn add -D mpn-on # 😝 npm disallows npm mentions
 ```
 
 ## Jesus, No! npm is the best again!
