@@ -3,12 +3,10 @@
   "description": "No Yarn: Prevent run yarn in package-lock.json based projects",
   "main": "src/index.js",
   "scripts": {
-    "test": "ava",
     "postinstall": "./install",
     "postversion": "git push && git push --tags && npm publish"
   },
   "devDependencies": {
-    "ava": "^0.20.0"
   },
   "repository": {
     "url": "git@github.com:a-x-/no-npm.git",
