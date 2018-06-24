@@ -1,5 +1,5 @@
 {
-  "name": "no-npm",
+  "name": "no-n-p-m",
   "description": "No Yarn: Prevent run yarn in package-lock.json based projects",
   "main": "src/index.js",
   "scripts": {
