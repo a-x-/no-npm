@@ -8,7 +8,7 @@ if [ ! "$( which yarn )" ]; then
 fi
 
 echo
-echo Tip. Install node using tj/n node version manager:
+echo Tip. Install & use yarn:
 echo "curl -L https://git.io/n-install | bash"
 echo "Install yarn: cd ~ && npm i -g yarn && cd -"
 echo
