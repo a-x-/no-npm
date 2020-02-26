@@ -10,5 +10,12 @@ Just add it as dev dependency and magic will be done
 yarn add -D mpn-on # 😝 npm disallows npm mentions
 ```
 
+## Why mpn-on?!
+npm disallows npm mention in the pachage names
+
+## How does it work?
+1. it registers ./node_modules/.bin as PATH in the beginning
+2. it providers `npm` binary 
+
 ## Jesus, No! npm is the best again!
 Good news, we have something special for you: **[noyarn](https://github.com/a-x-/noyarn)** ✨
